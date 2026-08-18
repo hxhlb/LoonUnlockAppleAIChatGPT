@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
 
 
-DOMAIN-SUFFIX,gateway.icloud.com
+# DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN,mask-api.fe.apple-dns.net
 DOMAIN,mask-api.icloud.com
